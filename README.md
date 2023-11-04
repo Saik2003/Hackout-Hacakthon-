@@ -40,9 +40,13 @@ Clone/Download this repository.
 In the root folder, create a .env file with the following content:
 
 makefile
+
 Copy code
+
 REACT_APP_GPT_API = <Your-OpenAI-API-Key>
+
 Note: You'll need to create your own API key from OpenAI as keys cannot be shared on public repositories.
+
 
 Run the following commands:
 
@@ -59,6 +63,8 @@ In the Developer options, click on "Load unpacked."
 Select the build/ folder from the repository.
 
 Supported Platforms
+
+
 HACKOUTBOT currently supports questions from various platforms, including:
 
 Leetcode
@@ -66,5 +72,8 @@ AlgoExpert
 Hackerrank
 GeeksforGeeks
 Interviewbit
+
+
+
 It's important to note that HACKOUTBOT does not function during live tests or contests, and we do not endorse or support cheating.
 
