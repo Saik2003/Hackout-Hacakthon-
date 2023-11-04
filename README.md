@@ -1,9 +1,11 @@
-HACKOUTBOT - Your Software Interview Prep Companion
+HACKOUTBOT - 
+
+Your Software Interview Prep Companion
 HACKOUTBOT is an intelligent chatbot designed to assist you with your software interview preparation and coding problem-related questions. It's powered by the GPT-3 model from OpenAI and has been tailored for this specific purpose.
 
 Why Choose HACKOUTBOT?
-HACKOUTBOT comes as a convenient Chrome extension, eliminating the need to switch between tabs, ensuring a seamless and accessible experience. Here's why you should consider using it:
 
+HACKOUTBOT comes as a convenient Chrome extension, eliminating the need to switch between tabs, ensuring a seamless and accessible experience. Here's why you should consider using it:
 HACKOUTBOT can effortlessly comprehend the coding problems you're working on, eliminating the need for manual copying and pasting.
 Pre-defined, thoughtfully crafted prompts are readily available with just a click.
 HACKOUTBOT extends its support to most commonly used platforms for interview preparation and coding challenges.
